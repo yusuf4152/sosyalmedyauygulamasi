@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46624531791",
+    "project_id": "sosyalmedya-5d81b",
+    "storage_bucket": "sosyalmedya-5d81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46624531791:android:72289ba1474bea7ba9113a",
+        "android_client_info": {
+          "package_name": "com.example.sosyalmedyauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46624531791-nr4vq5nh1932mp4s4eqgrv0kqmecjb6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrz9hlUmiO5cy5y1bff8GkouU-AxzGxec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46624531791-nr4vq5nh1932mp4s4eqgrv0kqmecjb6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
